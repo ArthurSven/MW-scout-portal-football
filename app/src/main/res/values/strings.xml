@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MW youth football portal</string>
+    <string name="scout_portal">SCOUT PORTAL</string>
+    <string name="mw_youth">MW YOUTH</string>
+    <string name="youth_football_at_the_core">Youth football at the core</string>
+    <string name="making_sure_no_potential_youth_player_goes_unnoticed_in_the_land">Making sure no potential youth player goes unnoticed in the land</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="agent">Agent</string>
+    <string name="team">Team</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
