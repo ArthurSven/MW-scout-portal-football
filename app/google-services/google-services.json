@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829633810540",
+    "firebase_url": "https://mw-youth-football-portal-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mw-youth-football-portal",
+    "storage_bucket": "mw-youth-football-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829633810540:android:c0f226c62826f7eeaf4849",
+        "android_client_info": {
+          "package_name": "com.example.mwyouthfootballportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829633810540-j28fqi6tf94eveek5vm9i7vn27atesh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0HywoQRWaWr1IOGEP7aKF3dZisARmEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829633810540-j28fqi6tf94eveek5vm9i7vn27atesh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
