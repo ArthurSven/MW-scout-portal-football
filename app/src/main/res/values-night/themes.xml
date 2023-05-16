@@ -16,6 +16,6 @@
     </style>
     <style name="splash" parent="Theme.Material3.Dark.NoActionBar">
         <item name="windowActionBarOverlay">true</item>
-        <item name="android:windowBackground">@color/darkmode</item>
+        <item name="android:windowBackground">@color/white</item>
     </style>
 </resources>
